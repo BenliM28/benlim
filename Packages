@@ -1,14 +1,14 @@
-Package: com.benlim.modernseven_1.1_iphoneos-arm64e.deb
+Package: com.benlim.modernseven__1.deb
 Name: Modern 7
 Version: 1.1
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Description: Ios 7 icons on snowboard
 Maintainer: benlim
 Author: benlim
 Section: Themes
 Depends: com.spark.snowboard 
-Filename: debs\com.benlim.modernseven_1.1_iphoneos-arm64e.deb
-Size: 2862314
-MD5sum: 7923d8783cadcf1303d463a43694dca1
-SHA1: 6e6e87722fd721027a100143d7af871caa6977ed
-SHA256: b0174bb74b4d451befd240045f1ae932e288b1796f0ac08e3305d4f808374d71
+Filename: debs\com.benlim.modernseven__1.deb
+Size: 2853808
+MD5sum: a5010202ad44e9aebcc414020defd271
+SHA1: 8ff5058074d6e56a03c5203d4e9596d7ec722ac3
+SHA256: c627b874b8ebae291e279dd2db669e93e7edd2f90ec621ac731e3837177feff8
