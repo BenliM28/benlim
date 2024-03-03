@@ -12,6 +12,7 @@ Size: 2853816
 MD5sum: eab0d23c3199108dfc109f9fc694399a
 SHA1: 4a5336d317780f81d9a0055368d5d6ac2e4201b3
 SHA256: 1dcad1759b2ac8ea54c499c34574b731c5402e6500f78a1273561219a26486af
+Icon: https://cdn.discordapp.com/attachments/914877367997050883/1213889006333468762/com.apple.Maps-large.png?ex=65f71d3c&is=65e4a83c&hm=9e7ea9bc1364966467071000c1050806294967d38440eb676a978ddb562972cc&
 
 Package: daniel.old-lockscreen.deb
 Name: old-lockscreen
@@ -27,6 +28,7 @@ Size: 4106
 MD5sum: 93c21341791a86d9be32c909334c33d5
 SHA1: 0c7c344d8132df18c1776b51ec620e8a1b56e2cb
 SHA256: 88f2a89f5ad60d695b1612b9ce2927182256032ec947e493a9d354625e1f3438
+Icon: https://cdn.discordapp.com/attachments/914877367997050883/1213889518520897607/IMG_1876.png?ex=65f71db6&is=65e4a8b6&hm=fc79fbe298fcd579648dce440a86208250a2840fa3b2119ae92dc6bb39cb9b2e&
 
 Package: me.minhton.nineunlock.deb
 Name: NineUnlock
@@ -42,3 +44,36 @@ Size: 493528
 MD5sum: 8a0582df54da25aee286119e8f79ce80
 SHA1: ebcc973bfd6ef3ed8cb3d63c6eec3c252fd1543c
 SHA256: 042f60c6605f22330df87bf29216b543c80af41e560a8a89f53a60472092fc02
+Icon: https://cdn.discordapp.com/attachments/914877367997050883/1213890181959258112/Slyd-Before-and-After.jpg?ex=65f71e54&is=65e4a954&hm=8242b1ab6fcfffc047a4ff7001622976f0a7456afbda05bf38ae02c97ad8719b&
+
+Package: com.haithamismael.nowatusialert.deb
+Name:  NoWatusiAlert
+Version: 3.0-1﹢debug
+Architecture: iphoneos-arm64
+Description: Remove the annoying official ipa from watusi tweak
+Maintainer: benlim
+Author: Dpixel
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/com.haithamismael.nowatusialert_3.0-1+debug_iphoneos-arm64.deb
+Size: 7236
+MD5sum: 44fb8bdcefb95a505657f65c01a672b5
+SHA1: b22503b096f49e8cad9342bf538de06369f0727d
+SHA256: c9da018a5ea4485ff1ec5e4cc4e341cd69108dbf29f07608bb7824a9daf5fd8d
+Icon: https://cdn.discordapp.com/attachments/914877367997050883/1213891775157239918/Untitled.jpeg?ex=65f71fd0&is=65e4aad0&hm=2482a4b8a6245bc874dcb1fddcec247496cd920f2999d830ecce71fc1363b56e&
+
+Package: com.now.mooner.deb
+Name: Mooner
+Version: 0.0.1-Beta3
+Architecture: iphoneos-arm64
+Description: Free Lunar alternative by now4u2kid
+Maintainer: benlim
+Author: Now4u2Kid
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.now.mooner_0.0.1-Beta3_iphoneos-arm64.deb
+Size: 37094
+MD5sum: c54416c44f3864237431575454531787
+SHA1: 0945b6aa7a416570a512e87914e66286d985f47d
+SHA256: 202d496d44fd2aab1d287a64af4ffad0794fe8b66893fe3458666cf5874705d8
+Icon: https://media.havoc.app/65d123c569317c39618e4c27?w=1920&q=75
