@@ -12,3 +12,33 @@ Size: 2853816
 MD5sum: eab0d23c3199108dfc109f9fc694399a
 SHA1: 4a5336d317780f81d9a0055368d5d6ac2e4201b3
 SHA256: 1dcad1759b2ac8ea54c499c34574b731c5402e6500f78a1273561219a26486af
+
+Package: daniel.old-lockscreen.deb
+Name: old-lockscreen
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Get the pre-ios 16 clock on ios 16!
+Maintainer: benlim
+Author: daniel
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/daniel.old-lockscreen_0.0.1_iphoneos-arm64.deb
+Size: 4106
+MD5sum: 93c21341791a86d9be32c909334c33d5
+SHA1: 0c7c344d8132df18c1776b51ec620e8a1b56e2cb
+SHA256: 88f2a89f5ad60d695b1612b9ce2927182256032ec947e493a9d354625e1f3438
+
+Package: me.minhton.nineunlock.deb
+Name: NineUnlock
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Description: Ios 9 "slide to unlock" on rootless jailbreaks
+Maintainer: benlim
+Author: MinhTon
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), org.thebigboss.libcolorpicker, xyz.cypwn.xinam1ne
+Filename: debs/me.minhton.nineunlock_1.0.3_iphoneos-arm64.deb
+Size: 493528
+MD5sum: 8a0582df54da25aee286119e8f79ce80
+SHA1: ebcc973bfd6ef3ed8cb3d63c6eec3c252fd1543c
+SHA256: 042f60c6605f22330df87bf29216b543c80af41e560a8a89f53a60472092fc02
