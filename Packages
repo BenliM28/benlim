@@ -77,3 +77,51 @@ MD5sum: c54416c44f3864237431575454531787
 SHA1: 0945b6aa7a416570a512e87914e66286d985f47d
 SHA256: 202d496d44fd2aab1d287a64af4ffad0794fe8b66893fe3458666cf5874705d8
 Icon: https://media.havoc.app/65d123c569317c39618e4c27?w=1920&q=75
+
+Package: com.thomz.dockchanger.deb
+Name: DockChanger
+Version: 1.1
+Architecture: iphoneos-arm64
+Description: Get old dock on notched devices and notched dock on old devices.
+Maintainer: benlim
+Author: thomz
+Section: Tweaks
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Filename: debs/com.thomz.dockchanger_1.1_iphoneos-arm64.deb
+Size: 207068
+MD5sum: 1f23fce5cc951a53bf80ba8afdf2ef6a
+SHA1: 481b0cc2e85c325be36388e63f80f682cb56e9c0
+SHA256: 82347201b3234ea102467056ea74b5277097188bcf6e217766468f93c2f82b0c
+Icon: https://repo.packix.com/media/com.thomz.dockchanger/icon.png
+
+Package: com.34306.upsidedowned.deb
+Name: upsidedowned
+Version: 1.1
+Architecture: iphoneos-arm64
+Description: Rotate upsidedown, left, right on your iPhone. All the code is taken from TrollPad
+Maintainer: benlim
+Author: 34306
+Section: Tweaks
+Depends: mobilesubstrate, (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.34306.upsidedowned_1.1_rootless_iphoneos-arm64.deb
+Size: 4668
+MD5sum: 4579125d06dd4fa5297ad32768207353
+SHA1: 3717e26b9fe7fba262999848f551d559e952df99
+SHA256: 004db87a9e610d5834b0ca57847ca4f19641347735b0c9f84baa417931cac123
+Icon: https://private-user-images.githubusercontent.com/79745143/309551514-72cef998-a127-4784-9bb2-a6e5d0b640b5.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5MTIxMjgsIm5iZiI6MTcwOTkxMTgyOCwicGF0aCI6Ii83OTc0NTE0My8zMDk1NTE1MTQtNzJjZWY5OTgtYTEyNy00Nzg0LTliYjItYTZlNWQwYjY0MGI1LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwOFQxNTMwMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iODJlMTliMmU5OGZlMjlmMjE5YzRjYWVmNmIzNWQ1ZTM2OGY1ZTU2NmVkNGQ5Yzg0NTA3OGNkMDMwZGQ4ZTgxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.oQ6MgsOWvWiZKTAupscapm0_tXj9_zyEVWJCe3RKlUk
+
+Package: love.litten.violet
+Name: Violet
+Version: 1.7
+Architecture: iphoneos-arm64
+Description: Show the artwork of your current playing song on more areas than just the music app itself
+Maintainer: benlim
+Author: Litten
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 14.4), firmware (>= 13.0), xyz.cypwn.xinam1ne
+Filename: debs/love.litten.violet_1.7_iphoneos-arm64.deb
+Size: 1010260
+MD5sum: 3917e2fe94d0f23713801460ff8dba3bfcc83075
+SHA1: 3917e2fe94d0f23713801460ff8dba3bfcc83075
+SHA256: 2fefce42f3ae1c8885eb579027b1d8ab1651788acc9b21a6e3af7f6a9a15bd4e
+Icon: https://cdn.discordapp.com/attachments/958738278843031622/1215687664217489470/Violet-Prefs-716x1536.jpg?ex=65fda85d&is=65eb335d&hm=bab7db18556b337e8efd0981932acf4d7a2c2c15c640754cb22ee9fceadffc6a&
