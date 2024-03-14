@@ -125,3 +125,65 @@ MD5sum: 3917e2fe94d0f23713801460ff8dba3bfcc83075
 SHA1: 3917e2fe94d0f23713801460ff8dba3bfcc83075
 SHA256: 2fefce42f3ae1c8885eb579027b1d8ab1651788acc9b21a6e3af7f6a9a15bd4e
 Icon: https://cdn.discordapp.com/attachments/958738278843031622/1215687664217489470/Violet-Prefs-716x1536.jpg?ex=65fda85d&is=65eb335d&hm=bab7db18556b337e8efd0981932acf4d7a2c2c15c640754cb22ee9fceadffc6a&
+
+Package: com.ginsu.classicalerts
+Name: Classic Alerts
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: ClassicAlerts brings the iOS 8 era sqaured alerts back.
+Maintainer: benlim
+Author: Ginsu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.ginsu.classicalerts_1.0.0_iphoneos-arm64.deb
+Size: 3140
+MD5sum: 3cd7529637ebe7016b020f3373668854
+SHA1: 1ce1c7c91c29d08494ed7dd1f063f64036c6e2ee
+SHA256: 17ddabecde2f7e98ab9d5dbea7473e06c10fb30e0bd60bfd3bc3e01dc9f7a17c
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fginsu.dev%2Frepo%2Fapi%2Fpackageinfo%2Fcom.ginsu.classicalerts%2Fscreenshots%2Fscreenshot.jpg
+
+Package: com.level3tjg.colorhomebar
+Name: Colorhomebar
+Version: 0.0.7
+Architecture: iphoneos-arm64
+Description: 
+Maintainer: benlim
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: debs/com.level3tjg.colorhomebar_0.0.7_iphoneos-arm64.deb
+Size: 11202
+MD5sum: 05396b45b1f37eb330567fead02f2ada
+SHA1: f4638a3589fbde6342f7d1e3369b91e683694b7c1030ac48a64b10207e7b4a00
+SHA256: f4638a3589fbde6342f7d1e3369b91e683694b7c1030ac48a64b10207e7b4a00
+
+Package: com.squidforce.disablepastealert16
+Name: Disablepastealerts16
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Disable paste alerts on ios 16
+Maintainer: benlim
+Author: squidforce
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: debs/com.squidforce.disablepastealert16_1.0_iphoneos-arm64.deb
+Size: 3972
+MD5sum: 73444f3e7d2209e9a271e9fbc203ac65
+SHA1: fb49aae7f94e65b6797142a8026bd80e78058dd0
+SHA256: faa8b37fad7b322a3ccc3fee330078d86f371afa6d28f861af70b94541348ca2
+Icon: https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/iOS-16-copy-and-paste-apps.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+
+Package: com.yourepo.cydiageek.dockshowlabels
+Name: Dockshowlabels
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Description: Add the Labels Below the Dock as before iOS 11! Added to Marina too.
+Maintainer: benlim
+Author: cydiageek
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/com.yourepo.cydiageek.dockshowlabels_1.0.4_iphoneos-arm64.deb
+Size: 5546
+MD5sum: 7ec3cb57e63cc2a1a45b030c3d9714fe
+SHA1: a16a3f62b8fbd3906515b8d6628ff54d1790481a
+SHA256: 7b959184b950a2acf5345be32e971114f5921391b9c5bcd5e3721044192e6ddb
