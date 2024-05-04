@@ -48,12 +48,12 @@ Icon: https://cdn.discordapp.com/attachments/914877367997050883/1213890181959258
 
 Package: com.haithamismael.nowatusialert.deb
 Name:  NoWatusiAlert
-Version: 3.0-1﹢debug
+Version: 3.0-1debug
 Architecture: iphoneos-arm64
 Description: Remove the annoying official ipa from watusi tweak
 Maintainer: benlim
 Author: Dpixel
-Section: Tweaks
+Section: Whatsapp
 Depends: mobilesubstrate
 Filename: debs/com.haithamismael.nowatusialert_3.0-1+debug_iphoneos-arm64.deb
 Size: 7236
@@ -187,3 +187,114 @@ Size: 5546
 MD5sum: 7ec3cb57e63cc2a1a45b030c3d9714fe
 SHA1: a16a3f62b8fbd3906515b8d6628ff54d1790481a
 SHA256: 7b959184b950a2acf5345be32e971114f5921391b9c5bcd5e3721044192e6ddb
+
+Package: com.f0u4d.stalky_4.1.25_iphoneos-arm64
+Name: Stalky
+Version: 4.1.25
+Architecture: iphoneos-arm64
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Maintainer: benlim
+Author: Fouad Raheb
+Section: Whatsapp
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.23)
+Filename: debs/com.f0u4d.stalky_4.1.25_iphoneos-arm64.deb
+Size: 1601778
+MD5sum: d70aec66135ca8c5353878aed4276ba7
+SHA1: e81dc346c43a13cb79f0bcb8c70a15021301f178
+SHA256: e1f4a9c5f87ad86117386eb5a307a45e910836832ff197e1393bfba00781d265
+Icon:
+
+Package: com.f0u4d.watusitools_2.4.23_iphoneos-arm64.deb
+Name: Watusitools
+Version: 2.4.23
+Architecture: iphoneos-arm64
+Description:  Library for Watusi and WhatsApp tweaks
+Maintainer: benlim
+Author: Fouad Raheb
+Section: Whatsapp
+Depends: firmware (>= 12.0)
+Filename: debs/com.f0u4d.watusitools_2.4.23_iphoneos-arm64.deb
+Size: 4511272
+MD5sum: 50983721f1b4c2e0c6be60be759e7015
+SHA1: 3018cccca6ada5ae0dec30318591bb64bc612028
+SHA256: 6ba91f97558232172885dbb8cf0918d591ae405ee5a8bfd3b559cfe88d6a8efc
+
+Package: com.fouadraheb.watusi3_1.2.30_iphoneos-arm64.deb
+Name: Watusi3
+Version: 1.2.30
+Architecture: iphoneos-arm64
+Description: The all-in-one tweak for WhatsApp Messenger
+Maintainer: benlim
+Author: Fouad Raheb
+Section: Whatsapp
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.23)
+Filename: debs/com.fouadraheb.watusi3_1.2.30_iphoneos-arm64.deb
+Size: 1969538
+MD5sum: a10cd76065aaf1b64f67ddb3bd42299e
+SHA1: 28c4df3dd79e546b311430d8f0384f411a2ddb35
+SHA256: 8f2eb1c3ec5198c4199c7098ff37844b72211a562f105034e18261f20a640480
+
+
+Package: xyz.cypwn.watusicrack_0.0.1_iphoneos-arm64.deb
+Name: Watusicrack
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Crack Watusi, stalky and onlinenotify
+Maintainer: benlim
+Author: CyPwn
+Section: Whatsapp
+Depends: mobilesubstrate
+Filename: debs/xyz.cypwn.watusicrack_0.0.1_iphoneos-arm64.deb
+Size: 10460
+MD5sum: 4ed2920041d9e251a287c7287fc100f3
+SHA1: e3afa203a9e80b00a36957c14216712e181361ea
+SHA256: cd37f023c71cb2fdcfa0a17e18658e9c531ec8c1710118d5d649beaf5d0ff898
+
+
+Package: com.nightwind.oldsettings_0.0.1_iphoneos-arm64.deb
+Name: Old Settings
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Pre ios15 settings on new versions
+Maintainer: benlim
+Author: Nightwind
+Section: Tweaks 
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.nightwind.oldsettings_0.0.1_iphoneos-arm64.deb
+Size: 3702
+MD5sum: 0899f32a5729ff4f071ac54ddcdb05c5
+SHA1: 09c4de90df65a374e998c5fe2c5d47dde24dd163
+SHA256: 14a48f4fd4a5dd21064aaa1344672cff1e4fa068e0dae2ec54107772dff3517c
+Icon: https://cdn.discordapp.com/attachments/958738278843031622/1236396053150830642/com.apple.Preferences-large.png?ex=6637db0e&is=6636898e&hm=5bd0488c535ccf22bdb4b31675ee255a4df5301c7646a52b75cfb73ae072c9e7&
+
+Package: com.nightwind.recorddot_0.0.1_iphoneos-arm64.deb 
+Name: RecordDot
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Make your screen recording pill a dot.
+Maintainer: benlim
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.nightwind.recorddot_0.0.1_iphoneos-arm64.deb
+Size: 185938
+MD5sum: a19472aaa7ad6f4cfe75956d082ff774
+SHA1: 068c36c1d3a3c0ef8077bbd86725e6a542ab0c27
+SHA256: e691b481784a3bc0307003136f198f1ec39cddcca1e095c9e7d61b66234ced14
+Icon: https://github.com/NightwindDev/RecordDot/blob/main/recorddotprefs/Resources/icon@3.png?raw=true
+
+Package: com.nightwind.visionsearchpill_0.0.1_iphoneos-arm64.deb
+Name: VisionSearchPill
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Add a flare of visionOS to your search pill!
+Maintainer: benlim
+Author: Nightwind
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: debs/com.nightwind.visionsearchpill_0.0.1_iphoneos-arm64.deb
+Size: 121790 
+MD5sum: fe95d5132723cfaee71112b59121f2e9
+SHA1: f6d14d37871eb487db7c9d351fe65c8f4f1d5eba
+SHA256: ab0bd0c1094a1a2655703fb23913d5b0086f753769fea80f98463927bad2f1b9
+Icon: https://github.com/NightwindDev/VisionSearchPill/blob/main/visionsearchpillprefs/Resources/bigicon.png
